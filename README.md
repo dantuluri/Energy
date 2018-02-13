@@ -1,5 +1,5 @@
 # Energy
-Energy is a cross-platform, extensible file explorer designed to replace the default  
+Energy is a cross-platform, customizable, and extensible file explorer designed to replace the default  
 file explorers packaged in operating systems.  
 
 
