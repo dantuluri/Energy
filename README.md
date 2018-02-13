@@ -6,7 +6,7 @@ Java Backend
 Javascript/HTML/CSS Frontend
 
 
-An open-source project made by: @kirtan-shah , @dantuluri
+An open-source project made by:
 
 ## Development - Simple Guide
 Clone or "download" repository to your local machine:
