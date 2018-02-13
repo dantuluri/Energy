@@ -2,9 +2,11 @@
 Energy is a cross-platform, customizable, and extensible file explorer designed to replace the default  
 file explorers packaged in operating systems.  
 
+Java Backend
+Javascript/HTML/CSS Frontend
 
 
-An open-source project made by:
+An open-source project made by: @kirtan-shah , @dantuluri
 
 ## Development - Simple Guide
 Clone or "download" repository to your local machine:
